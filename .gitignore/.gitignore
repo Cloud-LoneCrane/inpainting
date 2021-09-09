@@ -1,0 +1,9 @@
+# 忽略.idea文件夹
+.idea/
+
+# 忽略代码缓存文件
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/
+__pycache__/
+*.pyc
